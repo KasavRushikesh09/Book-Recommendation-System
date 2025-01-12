@@ -1,1 +1,1 @@
-streamlit run app.py
+gunicorn app:app && streamlit run app.py
