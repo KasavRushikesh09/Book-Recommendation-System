@@ -1,12 +1,6 @@
 ### dependency
 streamlit
 numpy
-pandas
-matplotlib
-seaborn
 
 ### local packages -
--e . 
-
-### Gunicorn for deployment
-Gunicorn
+-e .
